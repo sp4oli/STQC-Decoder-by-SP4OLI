@@ -94,13 +94,8 @@ Specjalne podziękowania dla:
 - Tomasz SP4API - wsparcie techniczne i konsultacje
 - Dariusz SP4UBW - testowanie i weryfikacja
 
-<iframe width="560" height="315" 
-src="[https://www.youtube.com/embed/dQw4w9WgXcQ](https://www.youtube.com/watch?v=yE73B5Ffcg8)" 
-title="YouTube video player" 
-frameborder="0" 
-allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-allowfullscreen>
-</iframe>
+[![Zobacz film na YouTube](https://img.youtube.com/vi/yE73B5Ffcg8/0.jpg)](https://www.youtube.com/watch?v=yE73B5Ffcg8)
+
   
 
 ---
