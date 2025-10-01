@@ -93,7 +93,7 @@ STQC Decoder to zaawansowane oprogramowanie do monitorowania i dekodowania sygna
 Specjalne podziękowania dla:
 - Tomasz SP4API - wsparcie techniczne i konsultacje
 - Dariusz SP4UBW - testowanie i weryfikacja
-- Społeczności krótkofalowców - wymiana doświadczeń
+  
 
 ---
 
