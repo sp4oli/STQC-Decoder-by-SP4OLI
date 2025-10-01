@@ -1,0 +1,59 @@
+═══════════════════════════════════════════════════════════════════════════════
+                    STQC DECODER - INSTRUKCJA INSTALACJI
+═══════════════════════════════════════════════════════════════════════════════
+
+KROK 1: PRZYGOTOWANIE SYSTEMU
+───────────────────────────────────────────────────────────────────────────────
+✓ Upewnij się, że masz system Windows 10 lub 11
+✓ Zamknij wszystkie inne programy przed instalacją
+✓ Wyłącz tymczasowo programy antywirusowe (jeśli blokują instalację)
+
+KROK 2: INSTALACJA
+───────────────────────────────────────────────────────────────────────────────
+1. Kliknij dwukrotnie plik 'STQC_Decoder_Installer.exe'
+2. Jeśli pojawi się ostrzeżenie "Windows protected your PC", kliknij:
+   → "More info" → "Run anyway"
+3. Postępuj zgodnie z instrukcjami kreatora instalacji:
+   - Wybierz katalog instalacji (domyślnie: C:\Program Files\STQC_Decoder)
+   - Zaakceptuj warunki licencji
+   - Wybierz czy utworzyć skrót na pulpicie
+4. Poczekaj na zakończenie instalacji
+
+KROK 3: PIERWSZE URUCHOMIENIE
+───────────────────────────────────────────────────────────────────────────────
+1. Po instalacji program uruchomi się automatycznie
+2. Przy pierwszym uruchomieniu mogą pojawić się komunikaty firewalla
+   → Zezwól na dostęp do sieci (wymagane dla powiadomień Telegram)
+3. Program utworzy niezbędne katalogi w folderze instalacji
+
+KROK 4: KONFIGURACJA PODSTAWOWA
+───────────────────────────────────────────────────────────────────────────────
+1. WYBIERZ MIKROFON:
+   - W lewym panelu wybierz urządzenie wejściowe z listy
+   - Kliknij "Test Mikrofonu" aby sprawdzić czy działa
+
+2. DODAJ JEDNOSTKI OSP:
+   - W prawym panelu wpisz kod i nazwę jednostki
+   - Kliknij "Zapisz"
+   - Możesz edytować szczegóły klikając "✏️"
+
+3. SKONFIGURUJ POWIADOMIENIA:
+   - Dźwiękowe: w edycji jednostki wskaż plik MP3
+   - Telegram: użyj przycisku "Konfiguruj Telegram"
+
+KROK 5: ROZPOCZNIJ MONITOROWANIE
+───────────────────────────────────────────────────────────────────────────────
+→ Kliknij "Start Monitoring" w lewym panelu
+→ Program rozpocznie nasłuch sygnałów STQC
+
+───────────────────────────────────────────────────────────────────────────────
+                          WSPARCIE TECHNICZNE
+───────────────────────────────────────────────────────────────────────────────
+Problem? Skontaktuj się z autorem:
+📧 Email: sp4oli@int.pl
+
+Przy zgłoszeniu problemu podaj:
+- Wersję Windows
+- Logi z folderu /logs/
+- Opis występującego problemu
+───────────────────────────────────────────────────────────────────────────────
